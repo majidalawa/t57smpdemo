@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://majidalawa.github.io/t57smpdemo/sitemap.xml
